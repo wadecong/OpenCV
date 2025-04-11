@@ -33,7 +33,7 @@ let package = Package(
             ),
      */
      .binaryTarget(name: "OpenCV",
-                  url: "https://github.com/wadecong/OpenCV/releases/download/5.0.3/OpenCV.xcframework.zip",
+                  url: "https://github.com/wadecong/OpenCV/releases/download/5.0.4/OpenCV.xcframework.zip",
                   checksum: "eabb4f16ad376adb877ce4b4a8ec52a2aac4b030b9d92f65ff1b99c9c0a329e3"),
 /*
      .binaryTarget(name: "OpenCV",
